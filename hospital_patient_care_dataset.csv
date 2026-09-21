@@ -1,0 +1,21 @@
+patient_id,patient_name,age,gender,department,doctor,appointment_date,scheduled_time,actual_consultation_time,appointment_status,lab_test,lab_result,spo2,heart_rate,diagnosis
+1001,Aarav,25,M,Cardiology,Dr. Rao,2026-09-21,09:00,09:40,Completed,Blood Test,13.5,98,78,Routine Checkup
+1002,Diya,34,F,Neurology,Dr. Mehta,2026-09-21,09:10,09:35,Completed,Glucose,145.0,97,92,Diabetes
+1003,Rohan,67,M,Cardiology,Dr. Rao,2026-09-21,09:20,10:05,Completed,Cholesterol,225.0,94,108,Hypertension
+1004,Ananya,29,F,General Medicine,Dr. Kumar,2026-09-21,09:30,10:00,Completed,Blood Test,14.1,99,82,Routine Checkup
+1005,Vikram,72,M,Cardiology,Dr. Rao,2026-09-21,09:40,10:35,Cancelled,Glucose,168.0,92,115,Diabetes
+1006,Meera,55,F,Neurology,Dr. Mehta,2026-09-21,10:00,10:20,Completed,Blood Test,12.8,96,88,Migraine
+1007,Arjun,41,M,General Medicine,Dr. Kumar,2026-09-21,10:10,10:55,Booked,Cholesterol,210.0,98,95,High Cholesterol
+1008,Sneha,63,F,Cardiology,Dr. Rao,2026-09-21,10:20,11:10,Booked,Glucose,155.0,93,104,Hypertension
+1009,Kiran,31,M,General Medicine,Dr. Kumar,2026-09-21,10:30,10:50,Completed,Blood Test,15.0,99,76,Routine Checkup
+1010,Pooja,69,F,Neurology,Dr. Mehta,2026-09-21,10:40,11:35,Completed,Glucose,172.0,91,112,Diabetes
+1011,Rahul,38,M,Cardiology,Dr. Rao,2026-09-21,11:00,11:25,Completed,Cholesterol,190.0,98,84,Routine Checkup
+1012,Isha,58,F,General Medicine,Dr. Kumar,2026-09-21,11:10,11:45,Emergency Cancelled,Blood Test,11.9,94,106,Hypertension
+1013,Aditya,76,M,Cardiology,Dr. Rao,2026-09-21,11:20,12:05,Completed,Glucose,180.0,90,118,Diabetes
+1014,Nisha,27,F,Neurology,Dr. Mehta,2026-09-21,11:30,11:55,Completed,Blood Test,13.8,99,80,Migraine
+1015,Manoj,64,M,General Medicine,Dr. Kumar,2026-09-21,11:40,12:25,Booked,Cholesterol,235.0,93,110,High Cholesterol
+1016,Kavya,45,F,Cardiology,Dr. Rao,2026-09-21,12:00,12:20,Completed,Blood Test,12.5,97,89,Routine Checkup
+1017,Sanjay,70,M,Neurology,Dr. Mehta,2026-09-21,12:10,13:00,Completed,Glucose,160.0,92,107,Diabetes
+1018,Lavanya,36,F,General Medicine,Dr. Kumar,2026-09-21,12:20,12:45,Completed,Blood Test,14.6,98,79,Routine Checkup
+1019,Varun,52,M,Cardiology,Dr. Rao,2026-09-21,12:30,13:15,Cancelled,Cholesterol,218.0,95,101,High Cholesterol
+1020,Siri,66,F,Neurology,Dr. Mehta,2026-09-21,12:40,13:30,Booked,Glucose,150.0,93,109,Hypertension
